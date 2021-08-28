@@ -184,3 +184,5 @@ cm_display.plot()
 #predictions output to submission file
 output = pd.DataFrame({'PassengerId': test_data.PassengerId, 'Survived': rf_predictions})
 output.to_csv('titanic_submission.csv', index=False)
+
+#gognpiognpoeinpgoenpgomrpom
